@@ -1,1 +1,1 @@
-# availity-assignmet
+# availity-assignment
