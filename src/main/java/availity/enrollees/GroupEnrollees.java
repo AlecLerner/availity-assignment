@@ -43,9 +43,10 @@ public class GroupEnrollees {
             enrollees.forEach(System.out::println);
             groupEnrolleesByInsurance(enrollees);
             System.out.println("---------------------------RESULTS---------------------");
+            printGroup();
             generateFiles();
         } catch (IOException e) {
-            e.printStackTrace();
+            System.err.println(e.getMessage());
         }
     }
 
