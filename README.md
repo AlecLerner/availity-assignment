@@ -1,4 +1,4 @@
-# This is ALex Lerner implementation of # Avility coding assignemnt
+# This is ALec Lerner implementation of # Avility coding assignemnt
 All details of assignment described in Availity Homework Backend.docx
 
 #First coding exercise: 
